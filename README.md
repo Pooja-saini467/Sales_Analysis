@@ -1,6 +1,6 @@
 # Sales_Analysis
 
-### Prject Overview
+### Project Overview
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends,make data-driven recommendations,and gain a deeper understanding of the company's performance.
 
 ### Data Sources
@@ -17,3 +17,7 @@ In the initial data prepation phase, we performed the following task:
 1. Data loading and inspection.
 2. Handling a missing values.
 3. Data cleaning and formatting.
+### Demo
+
+https://github.com/user-attachments/assets/44b10e51-0d64-40f7-b81c-57c41b2fda5f
+
